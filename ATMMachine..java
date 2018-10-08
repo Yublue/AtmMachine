@@ -8,6 +8,7 @@ public class ATMMachine {
     int withdraw;
     int deposit;
     int transfer;
+    int checkBalance;
     String accountName;
    static String check = "Y";
     
